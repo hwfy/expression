@@ -5,7 +5,7 @@ The expression is parsed as a variable, an operator, and a value
 # Installation
 
 
-go get github.com/hwfy/expression
+> go get github.com/hwfy/expression
 # Example
 
 
